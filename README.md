@@ -1,5 +1,5 @@
 # EnumHelper
-Helper methods for enumeration.
+Helper methods for Enum type.
 
 # Dependency
 C# 7.3
